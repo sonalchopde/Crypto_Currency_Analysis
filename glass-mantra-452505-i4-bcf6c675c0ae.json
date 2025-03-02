@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glass-mantra-452505-i4",
+  "private_key_id": "bcf6c675c0ae88bb20dcc0706b81e67f9bea9bcf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjjO2NsBDFPUMK\nFeXAwCei0ES+ncIf/j/RgN7/sesP0d5p8l4HYPjtF0vrNAmkn8QSnZxBcPMTAhrq\n2nyoTL0aUXhNHvfHHnRSXSHq6wxy8j8agDdRphzhlABvTcQwK4/Jfc8CgyPgDtoT\nRNSmNCg4mEyhBiHrsZpbOrtJ+92cNED/FraqRgNNi/AafTcYFTOziuNOpYKKjytT\nhu++BkFpoVRKnJQ5KkDRby1/4ti1HWqDQ5OD+xL+9MmcsVa0x+cMO3atDhnm1ztw\n24DEhGHnU+u7WcdC7AGu/qg9FVhdyGlO9vIqPbjHwZgmHKMKEsPidxM8tqNGVZh5\nSA3lmC3/AgMBAAECggEAAJaWmdsAi0vsQPJ2EoOwsxc2Y4Nomee2xML9nJ+JMlPw\n6SJa4oIx7CYYcc6xP+adfaKBxacOD51w5Q7G+SUiFY5vLAxowE5NvDqsYWnsJvf4\np0ZRo3lBMMQ6FCxnt2E1TS9dzBjNORaCTSSVYFuoPM4okYqNiK4N/hICAd5mUxQR\nRQ8t33KFpa/Xz21ByqbfLESzrCnYiQVmRlwJDN92ntV7Eq2H3bxksrH9vJPcFwga\n4nC2+Uz9ZZoNp2SAF14KUl2KnCYhN5nj55M1BbUP5P1Adx00C7MMp5wI4KFn22QP\nR8HEVe+5O5Ywmn/yxbtHk9Kb+1s8sDhOxdWR7WIJAQKBgQDiSImw1tCLkG4+A1Ov\noXXA3K1Enj63RBmWCAePjS+Xua2IWl1UwLwgF4/O8ha0tWRFH8sGdRsLVFwOeuMo\niWyaTC1g/Uo0bfUp4a6M6JCOXVlPDE6XIBbkQFs+mTdIPbx+UdqNAM8N/dQbgTYK\nQpeEkIyXvoy3TLevL0V7FzE6QQKBgQC5B1zYJs/Rf+taIwks9DIaGHnEOhQdfrHt\nD+SOD2N4ViozaEye6MnRCX4V8idD7EXN6VYfgRspKD7uUC7vUk/YkQmcscEr5JjA\n1zMhaVvmaWS1HFHrMwUjO57ZjsUFBSQDZDxBfSZWg85AAbPgfx/We0sy607MmoNj\nZPHEClTYPwKBgQDRIi1vrPnNI01gLv73QYhtGQdidcaM5nmnOgCS4e/skIUbkjjU\nDdVQ67XTk9b8aPElGb8wVqcKD4uNLnInkus2p9UA4NfmIQIHFTeXr5F6ojfaYQt5\njQTbK8eo0T5QnA5LySbuTqMO0VtpmD/zt5wFvvrRfCDdgB/73vqeSs8KgQKBgQCx\nobzjkpcu1HTY6wvTCXjUDq1P0kYfbtNX+Er+iw1+qJIJGld8s5WUxl0yqnBByCHX\npexVgHfX0lhgJ8B3Z3laOxuUQB5oiiSP9cmTiPd+Q644JUEL4MZM5d8BlAvXXvEN\nBHzIjmJw6kbmsfvDSagCHAm8j6TtzmTW1kE4aIa9twKBgD8q3F+6/Bkj/t2Yx065\np2rqxXS3pEFs9jd150DuJwIbYJL5XBLjcJ1Pw1o2E5bw+449hN0iM+jK4z5U8RFe\nVy4Pp7SLjJkJEBPPpUsjdes567CrbxAHdFvP+0EWSg6qKHine2BTXCF+DXy44W8l\nADOphsog4CsYV6R6jtjTu3Eq\n-----END PRIVATE KEY-----\n",
+  "client_email": "cryptodataproject@glass-mantra-452505-i4.iam.gserviceaccount.com",
+  "client_id": "116983501803480033105",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cryptodataproject%40glass-mantra-452505-i4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
